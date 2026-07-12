@@ -9,6 +9,8 @@ remote for this desktop. Pinch to zoom in on a region and the server captures
 only that rectangle at native resolution, so text stays crisp while bandwidth
 stays bounded (one screen of pixels at a time).
 
+<img width="518" height="1151" alt="Screenshot_20260712-124906" src="https://github.com/user-attachments/assets/c4a1d205-6a4b-493e-b858-a43381ed40b1" />
+
 ## Usage
 
 ```
