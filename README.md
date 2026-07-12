@@ -28,7 +28,7 @@ python desktop_remote.py --port 8000 --monitor 1 --fps 10
 
 On the phone: drag to pan, pinch or `+`/`-`/double-tap to zoom, `Fit` to reset,
 `M1/M2...` to switch monitors. Toggle `Click: on` to send taps as mouse clicks.
-Use the text box, `Enter`, arrow/Esc/Tab keys, and `^C` to send input.
+Use the text box then `Send`, `Enter`, arrow/Esc/Tab keys, and `^C` to send input.
 
 ## Risks
 
